@@ -5,6 +5,8 @@
 > Security is not a role I work in — it’s the lens through which I see every system.
 
 ---
+**⚡ I break systems to build unbreakable ones.**
+
 
 ## About Me
 
