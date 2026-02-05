@@ -18,7 +18,7 @@ I solve **real-world security problems** with scalable automation, embedding sec
 I design, break, and secure systems with offensive precision and defensive foresight, automating security at scale using AI to stay steps ahead of every threat.
 
 **⚡ Highlight Reel:**  
-**Automated 100+ security tests across cloud pipelines | Designed resilient DevSecOps workflows | Built AI-assisted pentest tooling**
+💻 Automated 100+ security tests across cloud pipelines | 🔧 Designed resilient DevSecOps workflows | 🤖 Built AI-assisted pentest tooling
 
 ---
 
@@ -130,5 +130,12 @@ I design, break, and secure systems with offensive precision and defensive fores
 **CypherXblade** — Automated web vulnerability analysis tool focused on speed, repeatability, and developer usability.
 
 ---
+
+## Key Achievements
+- Reduced pipeline security incidents by 40% through automation  
+- Conducted 50+ Red Team exercises improving system resilience  
+- Built AI-powered vulnerability scanner deployed in production environments
+
+--
 
 **Security is not optional. It is engineered.**
