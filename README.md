@@ -136,6 +136,6 @@ I design, break, and secure systems with offensive precision and defensive fores
 - Conducted 50+ Red Team exercises improving system resilience  
 - Built AI-powered vulnerability scanner deployed in production environments
 
---
+---
 
 **Security is not optional. It is engineered.**
