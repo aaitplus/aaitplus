@@ -14,6 +14,14 @@ I solve **real-world security problems** with scalable automation, embedding sec
 
 ---
 
+**Mission Statement:**  
+I design, break, and secure systems with offensive precision and defensive foresight, automating security at scale using AI to stay steps ahead of every threat.
+
+**⚡ Highlight Reel:**  
+**Automated 100+ security tests across cloud pipelines | Designed resilient DevSecOps workflows | Built AI-assisted pentest tooling**
+
+---
+
 ## Security Philosophy
 
 - Think like an attacker. Build like a defender.
